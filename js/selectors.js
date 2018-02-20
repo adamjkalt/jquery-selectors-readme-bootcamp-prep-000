@@ -2,18 +2,18 @@ function paragraphSelector() {
 $('p')
 };
 
-function (lastImageSelector) {
+function lastImageSelector() {
 $('img:last')
 };
 
-function (ninjaBabySelector) {
+function ninjaBabySelector() {
 $('img:#baby-ninja')
 };
 
-function (divSelector) {
+function divSelector() {
 $('.pics')
 };
 
-function (firstListItem) {
+function firstListItem() {
 $('ul #pic-list:first-child')
 };
